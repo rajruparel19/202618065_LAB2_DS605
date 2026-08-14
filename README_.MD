@@ -1,14 +1,16 @@
 Vectorized Programming with NumPy & Data Wrangling with Pandas (Titanic Dataset)
 
 Name:Raj Udaybhai Ruparel
+
 Student ID:202618065
+
 Dataset: Kaggle Titanic dataset (train.csv) — https://www.kaggle.com/c/titanic/data
 
 About this project :
 
 This is my submission for the NumPy + Pandas lab assignment. Everything is in one script, `titanic_analysis.py`, split into `# %%` cells so it can be run either as a normal Python file or opened in VS Code and stepped through cell by cell in the Interactive window. Part A covers NumPy basics and linear algebra, Part B is the actual Titanic data wrangling with Pandas.
 
-I ran it fully on my own machine (not just relying on generated outputs) — figures get written to `figures/` and the cleaned dataset gets written to `data/train_cleaned.csv` every time the script runs.
+I ran it fully on my own machine (not just relying on generated outputs) figures get written to `figures/` and the cleaned dataset gets written to `data/train_cleaned.csv` every time the script runs.
 
 What's covered
 
